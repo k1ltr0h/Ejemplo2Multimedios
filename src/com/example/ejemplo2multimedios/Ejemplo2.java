@@ -12,6 +12,8 @@ public class Ejemplo2 extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_ejemplo2);
+		
+		i = 1;
 	}
 
 	@Override
